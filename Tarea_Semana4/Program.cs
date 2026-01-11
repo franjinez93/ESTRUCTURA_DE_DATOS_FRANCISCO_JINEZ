@@ -12,9 +12,7 @@ namespace AgendaApp
 
             while (continuar)
             {
-                
                 Console.WriteLine("\n=== GESTIÓN DE AGENDA TELEFÓNICA ===");
-                Console.ResetColor();
                 Console.WriteLine("1. Agregar Contacto");
                 Console.WriteLine("2. Mostrar Todos");
                 Console.WriteLine("3. Buscar Contacto");
