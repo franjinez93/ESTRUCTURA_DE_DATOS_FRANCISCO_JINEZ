@@ -25,8 +25,8 @@ class Program
 
         int indice = 0;
 
-        // 80 ciudadanos con ambas dosis
-        for (int i = 0; i < 80; i++)
+        // 75 ciudadanos con ambas dosis
+        for (int i = 0; i < 75; i++)
         {
             var ciudadano = $"Ciudadano {indicesDisponibles[indice++]}";
             ambasDosis.Add(ciudadano);
@@ -34,20 +34,20 @@ class Program
             astrazeneca.Add(ciudadano);
         }
 
-        // 40 ciudadanos solo con Pfizer (120 - 80 = 40)
-        for (int i = 0; i < 40; i++)
+        // 0 ciudadanos solo con Pfizer (75 - 75 = 0)
+        for (int i = 0; i < 0; i++)
         {
             pfizer.Add($"Ciudadano {indicesDisponibles[indice++]}");
         }
 
-        // 120 ciudadanos solo con AstraZeneca (200 - 80 = 120)
-        for (int i = 0; i < 120; i++)
+        // 0 ciudadanos solo con AstraZeneca (75 - 75 = 0)
+        for (int i = 0; i < 0; i++)
         {
             astrazeneca.Add($"Ciudadano {indicesDisponibles[indice++]}");
         }
 
-        // 260 no vacunados (500 - 80 - 40 - 120 = 260)
-        for (int i = 0; i < 260; i++)
+        // 425 no vacunados (500 - 75 = 425)
+        for (int i = 0; i < 425; i++)
         {
             noVacunados.Add($"Ciudadano {indicesDisponibles[indice++]}");
         }
