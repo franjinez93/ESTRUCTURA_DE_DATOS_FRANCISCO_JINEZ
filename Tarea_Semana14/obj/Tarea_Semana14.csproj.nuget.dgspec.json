@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\INGENIERIA TICS\\TERCER SEMESTRE\\4 ESTRUCTURA DE DATOS\\GITHUB\\ESTRUCTURA_DE_DATOS_FRANCISCO_JINEZ\\Tarea_Semana2\\Tarea_Semana2.csproj": {}
+    "D:\\INGENIERIA TICS\\TERCER SEMESTRE\\4 ESTRUCTURA DE DATOS\\GITHUB\\ESTRUCTURA_DE_DATOS_FRANCISCO_JINEZ\\Tarea_Semana14\\Tarea_Semana14.csproj": {}
   },
   "projects": {
-    "D:\\INGENIERIA TICS\\TERCER SEMESTRE\\4 ESTRUCTURA DE DATOS\\GITHUB\\ESTRUCTURA_DE_DATOS_FRANCISCO_JINEZ\\Tarea_Semana2\\Tarea_Semana2.csproj": {
+    "D:\\INGENIERIA TICS\\TERCER SEMESTRE\\4 ESTRUCTURA DE DATOS\\GITHUB\\ESTRUCTURA_DE_DATOS_FRANCISCO_JINEZ\\Tarea_Semana14\\Tarea_Semana14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\INGENIERIA TICS\\TERCER SEMESTRE\\4 ESTRUCTURA DE DATOS\\GITHUB\\ESTRUCTURA_DE_DATOS_FRANCISCO_JINEZ\\Tarea_Semana2\\Tarea_Semana2.csproj",
-        "projectName": "Tarea_Semana2",
-        "projectPath": "D:\\INGENIERIA TICS\\TERCER SEMESTRE\\4 ESTRUCTURA DE DATOS\\GITHUB\\ESTRUCTURA_DE_DATOS_FRANCISCO_JINEZ\\Tarea_Semana2\\Tarea_Semana2.csproj",
+        "projectUniqueName": "D:\\INGENIERIA TICS\\TERCER SEMESTRE\\4 ESTRUCTURA DE DATOS\\GITHUB\\ESTRUCTURA_DE_DATOS_FRANCISCO_JINEZ\\Tarea_Semana14\\Tarea_Semana14.csproj",
+        "projectName": "Tarea_Semana14",
+        "projectPath": "D:\\INGENIERIA TICS\\TERCER SEMESTRE\\4 ESTRUCTURA DE DATOS\\GITHUB\\ESTRUCTURA_DE_DATOS_FRANCISCO_JINEZ\\Tarea_Semana14\\Tarea_Semana14.csproj",
         "packagesPath": "C:\\Users\\FRANCISCO\\.nuget\\packages\\",
-        "outputPath": "D:\\INGENIERIA TICS\\TERCER SEMESTRE\\4 ESTRUCTURA DE DATOS\\GITHUB\\ESTRUCTURA_DE_DATOS_FRANCISCO_JINEZ\\Tarea_Semana2\\obj\\",
+        "outputPath": "D:\\INGENIERIA TICS\\TERCER SEMESTRE\\4 ESTRUCTURA DE DATOS\\GITHUB\\ESTRUCTURA_DE_DATOS_FRANCISCO_JINEZ\\Tarea_Semana14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FRANCISCO\\AppData\\Roaming\\NuGet\\NuGet.Config"
