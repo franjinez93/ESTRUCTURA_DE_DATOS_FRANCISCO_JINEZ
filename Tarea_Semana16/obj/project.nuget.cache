@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8SsKmKFw9E=",
+  "success": true,
+  "projectFilePath": "D:\\INGENIERIA TICS\\TERCER SEMESTRE\\4 ESTRUCTURA DE DATOS\\GITHUB\\ESTRUCTURA_DE_DATOS_FRANCISCO_JINEZ\\Tarea_Semana16\\Tarea_Semana16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FRANCISCO\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.5\\microsoft.win32.systemevents.10.0.5.nupkg.sha512",
+    "C:\\Users\\FRANCISCO\\.nuget\\packages\\system.drawing.common\\10.0.5\\system.drawing.common.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
